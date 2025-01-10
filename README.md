@@ -1,8 +1,8 @@
-A Java Swing-based Employee Management System with MySQL Backend
+A Java Swing-based Employee Management System with postgreSQL Backend
 
 Key Functionalities:
 
-Employee Database Management: Storing and organizing employee information (name, address, department, salary, etc.) in a MySQL database. Efficiently retrieving and displaying employee data as needed.
+Employee Database Management: Storing and organizing employee information (name, address, department, salary, etc.) in a postgreSQL database. Efficiently retrieving and displaying employee data as needed.
 
 Data Verification: Implementing checks to ensure data accuracy and consistency. Validating input data before storing it in the database.
 
